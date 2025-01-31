@@ -51,7 +51,9 @@ body {
   /*font-size: 16px;*/
   line-height: 1.7;
   color: #777;
-  padding: 3rem; }
+  padding: 3rem; 
+  /* margin-top: 80px; */
+}
 
 body.show-nav {
   /* Width of nav */
@@ -159,6 +161,14 @@ header {
         rgba(#7ed56f)); */
   padding: 40px 15px;
   text-align: center;
+  /* position: sticky; */
+  /* bottom: 106px; */
+  /* z-index: 11; */
+  /* position: fixed;
+  top:0;
+  left: 0;
+  width: 100%;
+  z-index: 100; */
 }
 
 header h1 {
