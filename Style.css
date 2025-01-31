@@ -47,7 +47,7 @@ body {
 
 body {
   font-family: "Lato", sans-serif;
-  font-weight: 400;
+  /* font-weight: 400; */
   /*font-size: 16px;*/
   line-height: 1.7;
   color: #777;
@@ -177,6 +177,7 @@ header h1 {
 
 header p {
   margin: 30px 0;
+  font-size: 15px;
 }
 
 button,
